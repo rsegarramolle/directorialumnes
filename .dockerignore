@@ -1,0 +1,6 @@
+# Ignorar fitxers no necessaris per al contenidor
+README.md
+docker/
+.git
+.gitignore
+*.md
